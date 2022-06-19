@@ -1,0 +1,39 @@
+id: I1DB20B55
+source: https://sakyaresearch.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-19T14:12:57.891267'
+last_modified: '2022-06-19T14:12:57.891278'
+parser: null
+source_metadata:
+  title: Padma dkar pos (1527–1592) Religious History of the Brug pa bKa brgyud Sect
+  author: brug chen padma dkar po/
+  description: 'Digital version 2.0 {Wylie}; WYLIE COPY of master xml (completed:
+    2013-05-10); pagination of recto folios only; converted from external file, unrevised,
+    no thematic TEI markup'
+  file_info:
+  - 'Language: Wylie'
+  - 'Coverage: Full Text'
+  - 'Accessible: publicly'
+  responibilities:
+  - Digital edition:Sakya Research Centre (src)
+  - Text input:Dharma Downloads, Karma Lekshey Ling Institute (Kathmandu, Swoyambhu)
+    (dd)
+  - Editorial process:Mathias Fermer (mf)
+  - TEI Encoding:Sakya Research Centre
+  - TEI Markup:-
+  - Revisions/Corrections:-
+  text_witnesses: https://sakyaresearch.org/sources/508
+  bases:
+    431c:
+      title: Padma dkar pos (1527–1592) Religious History of the Brug pa bKa brgyud
+        Sect
+      order: 1
+      base_file: 431c.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
